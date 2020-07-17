@@ -1,0 +1,16 @@
+{
+  "name": "jsmodule-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^2.6.4"
+  },
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
